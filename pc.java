@@ -6,5 +6,6 @@ public class pc {
         System.out.println("Goodbye, World!");
 
         System.out.println("Lions are the kings of the jungle.");
+        System.out.println("Cakes are delicious and come in many flavors.");
     }
 }
