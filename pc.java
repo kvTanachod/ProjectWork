@@ -7,5 +7,6 @@ public class pc {
 
         System.out.println("Lions are the kings of the jungle.");
         System.out.println("Cakes are delicious and come in many flavors.");
+        System.out.println("Doors can be opened and closed to allow passage.");
     }
 }
